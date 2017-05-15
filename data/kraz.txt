@@ -10,7 +10,6 @@
 
 outfitter "Kraz Cybernetics"
   "Quad Electron Turret"
-  "Electron Turret"
-  
+
 planet Rust
   outfitter "Kraz Cybernetics"
